@@ -1,6 +1,6 @@
 {
-  "name": "snow-white-hooks",
-  "homepage": "https://robertbolender.github.io/snow-white-react-hooks",
+  "name": "react-typescript-template",
+  "homepage": "https://robertbolender.github.io/react-typescript-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
